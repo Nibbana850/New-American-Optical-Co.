@@ -1,0 +1,14 @@
+body{
+	background-image: url(ao1.jfif);
+	background-repeat: no-repeat;
+	background-size: cover;
+	height: 750px;
+}
+h2{
+	margin-left: 1100px;
+}
+h1{
+	background:linear-gradient(to top, #ff0000 51%, #000000 47%);
+	color: white;
+	width: 500px;
+}
